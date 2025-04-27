@@ -1,17 +1,22 @@
-<<<<<<< HEAD
-# React + Vite
+🎮 My RPG Game
+Este é um jogo de RPG simples e viciante, inspirado nos clássicos da web como The Crims, mas com uma pegada medieval. Você pode batalhar contra inimigos, ganhar experiência, evoluir de nível, gerenciar seu inventário e equipar seu personagem com novos itens!
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 Tecnologias Utilizadas:
+Front-end: React + Vite
 
-Currently, two official plugins are available:
+Back-end: Node.js + Express
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Banco de Dados: MongoDB
 
-## Expanding the ESLint configuration
+Estilização: TailwindCSS
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
+Gerenciamento de Rotas: React Router
+
+Controle de Estado: React Hooks (useState, useEffect)
+
+Versionamento: Git + GitHub
+
+Desenvolvido com foco em responsividade, simplicidade e uma estrutura moderna, ideal para aprimorar habilidades de Fullstack Development.
 # GameRPG
 Crie seu herói, lute contra inimigos, ganhe ouro e experiência. Evolua, equipe novos itens e torne-se uma lenda em um mundo de aventuras épicas!
 >>>>>>> 78270f490c358187373fce6837c500ebcca5807a
