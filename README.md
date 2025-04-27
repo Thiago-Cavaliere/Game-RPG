@@ -18,9 +18,7 @@ Controle de Estado: React Hooks (useState, useEffect)
 
 Versionamento: Git + GitHub
 
-link do projeto: 
-
-game-rpg-3wjd.vercel.app
+link do projeto: game-rpg-tau.vercel.app
 
 ## 📸 GIF do Projeto:
 ![Demonstração do Projeto](./public/assets/RPG.gif)
