@@ -17,6 +17,8 @@ Gerenciamento de Rotas: React Router
 Controle de Estado: React Hooks (useState, useEffect)
 
 Versionamento: Git + GitHub
+link do projeto: 
+game-rpg-3wjd.vercel.app
 
 ## 📸 GIF do Projeto:
 ![Demonstração do Projeto](./public/assets/RPG.gif)
