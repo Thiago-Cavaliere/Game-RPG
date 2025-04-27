@@ -19,7 +19,7 @@ Controle de Estado: React Hooks (useState, useEffect)
 Versionamento: Git + GitHub
 
 ## 📸 GIF do Projeto:
-![Demonstração do Projeto](./public/assets/demo.gif)
+![Demonstração do Projeto](./public/assets/RPG.gif)
 
 Desenvolvido com foco em responsividade, simplicidade e uma estrutura moderna, ideal para aprimorar habilidades de Fullstack Development.
 # GameRPG
