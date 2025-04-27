@@ -2,9 +2,13 @@ import React, { useState, useEffect } from "react";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import Battle from "./pages/Battle";
 import Shop from "./pages/Shop";
-import Navbar from "./components/Navbar";
+import Navbar from "./components/NavBar";
 import Character1 from "./pages/Character1";
-import { salvarPlayer, atualizarPlayer, buscarPlayer } from "./services/playerService";
+import {
+  salvarPlayer,
+  atualizarPlayer,
+  buscarPlayer,
+} from "./services/playerService";
 import Home from "./pages/Home";
 
 const App = () => {
