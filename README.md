@@ -1,3 +1,5 @@
+CΛVΛLIΞRE
+
 🎮 My RPG Game
 Este é um jogo de RPG simples e viciante, inspirado nos clássicos da web como The Crims, mas com uma pegada medieval. Você pode batalhar contra inimigos, ganhar experiência, evoluir de nível, gerenciar seu inventário e equipar seu personagem com novos itens!
 
@@ -15,6 +17,9 @@ Gerenciamento de Rotas: React Router
 Controle de Estado: React Hooks (useState, useEffect)
 
 Versionamento: Git + GitHub
+
+## 📸 GIF do Projeto:
+![Demonstração do Projeto](./public/assets/demo.gif)
 
 Desenvolvido com foco em responsividade, simplicidade e uma estrutura moderna, ideal para aprimorar habilidades de Fullstack Development.
 # GameRPG
