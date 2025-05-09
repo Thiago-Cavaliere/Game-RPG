@@ -6,7 +6,8 @@ const Navbar = () => {
     <nav className="bg-gradient-to-r from-blue-800 via-gray-800 to-black p-4 shadow-lg">
       <div className="flex justify-between items-center max-w-7xl mx-auto">
         <div className="text-2xl font-extrabold tracking-wider text-white">
-          <Link to="/home" className="hover:underline">RPG Game</Link>
+          <Link to="/home" className="hover:underline">RPG Game ALFA </Link>
+          
         </div>
         <div className="flex space-x-6 text-lg text-white">
           <Link to="/" className="hover:underline transition-all">Home</Link>

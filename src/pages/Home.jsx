@@ -7,6 +7,10 @@ const Home = () => {
       <h2 className="text-4xl font-extrabold text-blue-500 mb-4 animate-pulse">
         Welcome, Adventurer!
       </h2>
+      <h6>
+        Este é um protótipo inicial do RPG Game, em fase ALFA. Muitos recursos
+        ainda estão em desenvolvimento.
+      </h6>
       <p className="text-lg text-gray-400 mb-8 max-w-xl">
         Your epic journey begins now. Train your character, conquer powerful
         enemies, and become a legend in this world of magic and battles!
